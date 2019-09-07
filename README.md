@@ -25,3 +25,4 @@ V0.4 | 12/09/2018  | Survivor's location displaying, for Milestone 1 presentatio
 - [x] Avoid collision with obstacles and boundary
 - [x] Find and identify survivors
 - [x] Display the vehicle position and the survivor's position on LCD
+
