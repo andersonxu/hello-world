@@ -2,7 +2,7 @@
 
 ## Version History
 Version | Date | New feature
------------- | ------------- | ------------- | -------------
+
 V0.1 | 06/09/2018  | Obstacle avoiding
 V0.2 | 09/09/2018  | Survivor identifying
 V0.3 | 10/09/2018  | Boundary identifying and avoiding
